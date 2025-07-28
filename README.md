@@ -4,4 +4,4 @@ A beautiful, interactive resume website showcasing Minecraft plugin development 
 
 # Preview: 
 
-| https://nusuntnight-dev.vercel.app/
+> https://nusuntnight-dev.vercel.app/
