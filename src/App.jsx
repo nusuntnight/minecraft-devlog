@@ -9,6 +9,7 @@ import {
   Github,
   ExternalLink
 } from 'lucide-react';
+import MusicPlayer from './components/MusicPlayer';
 
 // TextType Component
 const TextType = ({ text, speed = 100 }) => {
@@ -347,6 +348,9 @@ const MinecraftDevResume = () => {
           Built using React & AI help
         </p>
       </footer>
+
+      {/* Music Player */}
+      <MusicPlayer />
 
       <style jsx>{`
         .animate-fade-in {
